@@ -21,7 +21,11 @@ Get you ai4all API key here: https://ai4all.saq1bb.repl.co
 
 ```https://www.accesslinks.ai/.well-known/ai-plugin.json```
 
-```https://openapi-af.op-mobile.opera.com/openapi/testplugin/.well-known/ai-plugin.json```
+```
+https://openapi-af.op-mobile.opera.com/openapi/testplugin/.well-known/ai-plugin.json
+https://pdfreader.maila.ai/.well-known/ai-plugin.json
+https://chatgpt-plugin.mindfuldataai.com/.well-known/ai-plugin.json
+```
 
 ## Note:
 
