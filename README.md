@@ -2,6 +2,9 @@
 
 ChatGPT with Plugins is an open source chat UI with plugins access. It utilizes the chatbot-ui as the base UI.
 
+Test it with your nova API key at: https://dongsiqie-chatbot.hf.space/
+Get you nova API key here: https://nova-oss.com/
+
 Test it with your OpenAI API key at: https://chat-gpt-with-plugins.vercel.app/
 
 
@@ -17,6 +20,8 @@ Get you ai4all API key here: https://ai4all.saq1bb.repl.co
 ```https://websearch.plugsugar.com/.well-known/ai-plugin.json```
 
 ```https://www.accesslinks.ai/.well-known/ai-plugin.json```
+
+```https://openapi-af.op-mobile.opera.com/openapi/testplugin/.well-known/ai-plugin.json```
 
 ## Note:
 
@@ -46,7 +51,7 @@ docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ghcr.io/mckaywrigley/chatbot-
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
+git clone https://github.com/yangjianchuan/chatbot-ui.git
 ```
 
 **2. Install Dependencies**
